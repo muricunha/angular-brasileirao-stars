@@ -1,0 +1,115 @@
+{
+  "items":[{
+    "title": "Palmeiras",
+    "faIconFamily": "",
+    "disable": "false",
+      "children":[{
+          "title":"Ano do clube",
+          "route": "home/palmeiras/ano"
+        },
+        {
+          "title":"Principais do Elenco",
+          "route": "home/palmeiras/elenco"
+        }
+      ]
+    },
+    {
+      "title": "Botafogo",
+      "falIconFamily": "",
+      "iconName": "",
+      "children": [{
+          "title":"Ano do clube",
+          "route": "home/botafogo/ano"
+        },
+        {
+          "title":"Principais do Elenco",
+          "route": "home/botafogo/elenco"
+        }
+      ]
+    },
+    {
+      "title": "Fluminense",
+      "falIconFamily": "",
+      "iconName": "",
+      "children": [{
+          "title":"Ano do clube",
+          "route": "home/fluminense/ano"
+        },
+        {
+          "title":"Principais do Elenco",
+          "route": "home/fluminense/elenco"
+        }
+      ]
+    },
+    {
+      "title": "São Paulo",
+      "falIconFamily": "",
+      "iconName": "",
+      "children": [{
+          "title":"Ano do clube",
+          "route": "home/saopaulo/ano"
+        },
+        {
+          "title":"Principais do Elenco",
+          "route": "home/saopaulo/elenco"
+        }
+      ]
+    },
+    {
+      "title": "Flamengo",
+      "falIconFamily": "",
+      "iconName": "",
+      "children": [{
+          "title":"Ano do clube",
+          "route": "home/flamengo/ano"
+        },
+        {
+          "title":"Principais do Elenco",
+          "route": "home/flamengo/elenco"
+        }
+      ]
+    },
+    {
+      "title": "Corinthians",
+      "falIconFamily": "",
+      "iconName": "",
+      "children": [{
+          "title":"Ano do clube",
+          "route": "home/corinthians/ano"
+        },
+        {
+          "title":"Principais do Elenco",
+          "route": "home/corinthians/elenco"
+        }
+      ]
+    },
+    {
+      "title": "Vasco Da Gama",
+      "falIconFamily": "",
+      "iconName": "",
+      "children": [{
+          "title":"Ano do clube",
+          "route": "home/vasco/ano"
+        },
+        {
+          "title":"Principais do Elenco",
+          "route": "home/vasco/elenco"
+        }
+      ]
+    },
+    {
+      "title": "Santos",
+      "falIconFamily": "",
+      "iconName": "",
+      "children": [{
+          "title":"Ano do clube",
+          "route": "home/santos/ano"
+        },
+        {
+          "title":"Principais do Elenco",
+          "route": "home/santos/elenco"
+        }
+      ]
+    }
+  ]
+}
