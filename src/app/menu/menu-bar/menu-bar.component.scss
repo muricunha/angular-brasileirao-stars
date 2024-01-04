@@ -1,3 +1,4 @@
+
 .menu-container{
   display: flex;
   height: 85px;
@@ -14,8 +15,28 @@
 .menu__description{
   display: flex;
   color: white;
+  margin: 0 auto;
 }
 
-.menu__description:hover{
-  background-color: gray;
+.menu__description__bau{
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+
+}
+
+.menu__description > ul > li{
+	padding: 5px;
+	margin-right: 20px;
+}
+
+.menu__description > ul > li > a{
+	text-decoration: none;
+	padding: 5px;
+	color: white;
+}
+
+.menu__description > ul > li > a:hover{
+	color: rgb(51, 51, 158);
+	font-weight: bold;
 }
