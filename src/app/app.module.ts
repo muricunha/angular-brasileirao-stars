@@ -16,7 +16,7 @@ import { CarrosselComponent } from './menu/carrossel/carrossel.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
