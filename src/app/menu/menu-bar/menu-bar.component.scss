@@ -3,8 +3,8 @@
   display: flex;
   height: 85px;
   align-items: center;
-  background: rgb(4,3,22);
-  background: linear-gradient(90deg, rgba(4,3,22,0.8085609243697479) 0%, rgba(1,1,1,0.8785889355742297) 41%, rgba(92,92,94,0.9486169467787114) 100%);
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,0.9500175070028011) 0%, rgba(1,1,1,0.8785889355742297) 62%, rgba(59,59,60,0.9486169467787114) 100%);
   box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.5);
 }
 
@@ -25,6 +25,7 @@
   text-decoration: none;
   display: flex;
   font-size: 25px;
+  margin-top: 10px;
 }
 
 .menu__description > ul > li{
@@ -39,7 +40,7 @@
 }
 
 .menu__description > ul > li > a:hover{
-	color: rgb(51, 51, 158);
+  border-bottom: 2px solid rgb(250, 250, 250);
 	font-weight: bold;
 }
 
