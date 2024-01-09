@@ -1,1 +1,17 @@
-<p>atualization works!</p>
+<h1 class="titulo-elenco">Elenco Coritnhians 2023</h1>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">Jogador</th>
+      <th scope="col">Descrição</th>
+    </tr>
+  </thead>
+  <tbody *ngFor="let players of player">
+    <tr>
+      <th scope="row">{{players.id}}</th>
+      <td>{{players.nome}}</td>
+      <td>{{players.description}}</td>
+    </tr>
+  </tbody>
+</table>

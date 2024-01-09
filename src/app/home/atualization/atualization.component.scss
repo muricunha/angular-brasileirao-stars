@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Graphik-Semibold-Trial';
+  src: url('../../../assets/fonts/Graphik-Semibold-Trial.otf');
+}
+.card-img-top{
+width: 200px;
+align-items: center;
+}
+.card{
+  width: 250px;
+  padding: 20px;
+  margin: 20px;
+}
+.titulo-elenco{
+  text-align: center;
+  margin-top: 40px;
+  font-family: 'Graphik-Regular-Trial';
+  font-size: 35px;
+}
+
+.table{
+  width: 50%;
+  border: 1px solid gray;
+  margin: 0 auto;
+}
